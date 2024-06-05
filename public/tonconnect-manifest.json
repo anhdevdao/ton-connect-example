@@ -1,5 +1,5 @@
 {
-  "url": "http://localhost:3000",
+  "url": "https://ton-connect-example.vercel.app/",
   "name": "WebTonkeeper",
   "iconUrl": "https://tonkeeper.com/favicon.ico"
 }
