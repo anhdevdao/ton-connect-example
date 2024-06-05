@@ -6,9 +6,14 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@tonconnect/protocol": "^2.2.6",
+    "@tonconnect/ui-react": "^2.0.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "styled-components": "^6.1.11",
+    "ton-core": "^0.53.0",
+    "tonweb": "^0.0.66",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
