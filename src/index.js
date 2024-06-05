@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 
-const manifestUrl = "http://localhost:3000/tonconnect-manifest.json";
+const manifestUrl = "https://ton-connect-example.vercel.app/tonconnect-manifest.json";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
