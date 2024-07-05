@@ -3,23 +3,28 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@aptos-labs/ts-sdk": "^1.22.2",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@tonconnect/protocol": "^2.2.6",
     "@tonconnect/ui-react": "^2.0.3",
+    "bip39": "^3.1.0",
+    "buffer": "^6.0.3",
     "react": "^18.3.1",
+    "react-app-rewired": "^2.2.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "styled-components": "^6.1.11",
     "ton-core": "^0.53.0",
     "tonweb": "^0.0.66",
+    "typescript": "^5.5.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

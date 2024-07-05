@@ -1,0 +1,16 @@
+.create-account-button {
+  background-color: #E15656;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  padding: 10px 20px;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.create-account-button:hover {
+  background-color: #ef8a8a;
+}
